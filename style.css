@@ -52,3 +52,15 @@ body {
 h1 {
     margin: 0;
 }
+
+.top-header-one,
+.top-header-two,
+.bottom-header {
+    color: #EADBC8;
+}
+
+.intro-header-one,
+.intro-header-two,
+.middle-header {
+    color: #102C57;
+}
