@@ -13,18 +13,30 @@ body {
     height: 200px;
     width: 100vw;
     background-color: coral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .middle {
     height: 600px;
     width: 100vw;
     background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .bottom {
     height: 200px;
     width: 100vw;
     background-color: coral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
