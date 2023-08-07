@@ -10,7 +10,7 @@ body {
 }
 
 .top {
-    height: 200px;
+    height: 400px;
     width: 100vw;
     background-color: #102C57;
     display: flex;
@@ -20,7 +20,7 @@ body {
 }
 
 .intro {
-    height: 600px;
+    height: 1000px;
     width: 100vw;
     background-color: #EADBC8;
     display: flex;
