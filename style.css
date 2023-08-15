@@ -107,11 +107,11 @@ h1 {
 .top-header-one,
 .top-header-two,
 .bottom-header {
-    color: #EADBC8;
+    color: var(--third-color);
 }
 
 .intro-header-one,
 .intro-header-two,
 .middle-header {
-    color: #102C57;
+    color: var(--prime-color);
 }
