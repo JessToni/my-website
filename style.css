@@ -45,6 +45,8 @@ table {
 /*Establish custom properties that will help keep design consistent*/
 :root {
     --prime-color: #102C57;
+    --second-color: #EADBC8;
+    --third-color: #DAC0A3;
 }
 
 body {
@@ -70,7 +72,7 @@ body {
 .intro {
     height: 1000px;
     width: 100vw;
-    background-color: #EADBC8;
+    background-color: var(--second-color);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -80,7 +82,7 @@ body {
 .middle {
     height: 600px;
     width: 100vw;
-    background-color: #DAC0A3;
+    background-color: var(--third-color);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
