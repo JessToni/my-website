@@ -92,7 +92,7 @@ body {
 }
 
 .bottom {
-    height: 200px;
+    height: 250px;
     width: 100vw;
     background-color: var(--prime-color);
     display: flex;
