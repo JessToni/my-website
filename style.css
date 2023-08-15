@@ -60,6 +60,13 @@ body {
     font-family: "Arial Bold", sans-serif;
 }
 
+/*Establish fonts to be used*/
+h1,
+h2 {
+    font-family: "Fjalla One", sans-serif;;
+    font-size: 30px;
+}
+
 .top {
     height: 400px;
     width: 100vw;
