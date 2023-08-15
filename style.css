@@ -78,6 +78,7 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    gap: 120px;
 }
 
 .middle {
@@ -100,18 +101,20 @@ body {
     align-items: center;
 }
 
-h1 {
-    margin: 0;
-}
-
 .top-header-one,
 .top-header-two,
 .bottom-header {
-    color: var(--third-color);
+    color: var(--second-color);
 }
 
 .intro-header-one,
 .intro-header-two,
 .middle-header {
     color: var(--prime-color);
+}
+
+.intro-header-one,
+.middle-header,
+.bottom-header {
+    padding-top: 30px;
 }
