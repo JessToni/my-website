@@ -67,6 +67,10 @@ h2 {
     font-size: 30px;
 }
 
+p {
+    font-family: "Catamaran", sans-serif;
+}
+
 .top {
     height: 400px;
     width: 100vw;
